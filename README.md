@@ -8,8 +8,8 @@ Once you have completed this workshop, you should be able to:
 
 - Identify the steps involved in computational thinking
 - Break a problem down into more manageable pieces
-- Develop an algorithm to solve the problem
-- Use abstraction to make the algoritm re-usable
+- Develop an series of steps (known as an `algorithm`) to solve the problem
+- Use `abstraction` to make an algorithm re-usable
 
 ## Audience
 
