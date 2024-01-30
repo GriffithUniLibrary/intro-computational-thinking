@@ -1,1 +1,1 @@
-Belinda Weaver (creator)
+Belinda Weaver
